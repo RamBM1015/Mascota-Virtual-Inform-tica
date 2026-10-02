@@ -346,7 +346,7 @@ def dibujar_texto_centrado(pantalla, fuente, texto, color, x, y):
 
 
 # --------------------------------------------------------------------------
-# PROGRAMA PRINCIPAL (GAME LOOP)
+# PROGRAMA PRINCIPAL 
 # --------------------------------------------------------------------------
 def main():
     pygame.init()
