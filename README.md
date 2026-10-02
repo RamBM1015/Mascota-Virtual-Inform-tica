@@ -32,12 +32,3 @@ Los efectos están en `assets/sonidos/` (`cafe`, `programar`, `limpiar`, `bug` y
 ## Concepto de la mascota
 Bit es un búho, símbolo de sabiduría y de quienes se quedan programando hasta tarde. Lleva anteojos redondos, auriculares gamer y una laptop con código, y viste un buzo con capucha con el símbolo `</>`. Su escenario es la sala de computación del colegio. Usa los colores del colegio (bordó, amarillo, rojo y blanco) y muestra el escudo del IPET 249. Representa a Informática porque sus necesidades son las de un programador: batería/energía, ánimo para escribir código y un sistema libre de bugs.
 
-## Estructura del repositorio
-```
-main.py        # código del juego
-assets/        # escudo.png, buho_bit.svg y sonidos/ (.wav)
-generar_sonidos.py  # crea los efectos de sonido
-GDD.md         # documento de diseño
-IA_LOG.md      # ficha de transparencia de IA
-README.md
-```
