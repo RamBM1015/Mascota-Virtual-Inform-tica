@@ -1,12 +1,10 @@
-<p align="center"><img src="assets/escudo.png" width="120" alt="Escudo IPET 249"></p>
-
 # Bit – Mascota Virtual de Informática
 
 **Institución:** IPET 249 "Nicolás Copérnico"
 **Especialidad:** Informática
 **Asignatura:** Laboratorio de Aplicaciones II
 **Año:** 2026
-**Alumno/a:** _(tu nombre y apellido)_ – 6° G
+**Alumno/a:** _Ramiro Busto Molina_ – 6° G
 
 <p align="center"><img src="assets/buho_bit.svg" width="600" alt="Bit, el búho programador"></p>
 
