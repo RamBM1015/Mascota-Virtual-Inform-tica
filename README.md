@@ -4,7 +4,7 @@
 **Especialidad:** Informática
 **Asignatura:** Laboratorio de Aplicaciones II
 **Año:** 2026
-**Alumno/a:** _Ramiro Busto Molina_ – 6° G
+**Alumno:** _Ramiro Busto Molina_ – 6° G
 
 <p align="center"><img src="assets/buho_bit.svg" width="600" alt="Bit, el búho programador"></p>
 
