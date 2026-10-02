@@ -4,9 +4,7 @@ Mascota Virtual de Informática - IPET 249 "Nicolás Copérnico"
 Laboratorio de Aplicaciones II - 2026
 
 Personaje base: "Bit", un búho programador.
-Todo el dibujo de la mascota se hace con formas de pygame (no necesita imágenes),
-salvo el escudo, que se carga desde assets/escudo.png (si no existe, se dibuja uno
-de reemplazo para que el programa nunca falle).
+Todo el dibujo de la mascota se hace con formas de pygame (no necesita imágenes)
 """
 
 import math
